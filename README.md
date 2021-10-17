@@ -1,2 +1,4 @@
 "# Kata-Sum-Arrays" 
-"# Kata-Sum-Arrays" 
+
+![screen image](pic.png)
+
